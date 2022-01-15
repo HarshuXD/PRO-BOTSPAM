@@ -36,7 +36,6 @@ for x in SUDO_USERS:
 @bot9.on(events.NewMessage(pattern="/bigspam"))
 @bot10.on(events.NewMessage(pattern="/bigspam"))
 async def spam(e):
-    Usage = "/bigspam text>100"
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None)
@@ -67,4 +66,5 @@ async def spam(e):
                     await e.client.send_message(e.chat_id, message)
                     await asyncio.sleep(0.1)
         else:
+            usage = "/bigspam text >100 "
             await e.reply(usage, parse_mode=None, link_preview=None)
