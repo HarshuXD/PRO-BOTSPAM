@@ -1,7 +1,7 @@
 {
     "name": "LegendSpam",
-    "description": "Spamming Bot Made By LegendBoy and Manisha",
-    "logo": "https://te.legra.ph/file/51153ee3e3b62182782ba.jpg",
+    "description": "Spamming Bot Made By LegendBoy and LegendGirl",
+    "logo": "",
     "keywords": [
         "telegram",
         "telethon",
@@ -9,9 +9,8 @@
         "legendboy",
         "Botspam"
     ],
-    "repository": "https://github.com/LEGEND-OS/BOTTOKENSPAM",
-    "website": "https://t.me/MISS_SENORITA1",
-    "success_url": "https://t.me/The_LegendBoy",
+    "repository": "https://github.com/PROBOY-OP/PRO-BOTSPAM",
+    "success_url": "https://t.me/LegendBoy_Pros",
     "env": {
         "API_HASH": {
             "description": "Write API_HASH from my.telegram.org",
