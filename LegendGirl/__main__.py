@@ -18,8 +18,8 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("Sir Deployed Ho Gya")
-print("Congratulations")
+print(⚜ Ur Bot Has Been Deployed Successfully ⚜)
+print(🔰 Congratulations 🔰)
 
 if __name__ == "__main__":
     bot.run_until_disconnected()
