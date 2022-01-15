@@ -5,4 +5,4 @@
 
 ## 🔰 Deploy on Heroku 🔰
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROBOY-OP/PROBOTSPAM.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROBOY-OP/PRO-BOTSPAM.git)
